@@ -21,3 +21,4 @@ bin/*
 calls.http
 .migrated
 .conf
+.DS_Store

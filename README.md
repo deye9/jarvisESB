@@ -1,6 +1,6 @@
 # jarvisESB
 
-An Enterprise Service Bus {ESB} with multi-tenancy built in.
+An Open Source Enterprise Service Bus {ESB} with multi-tenancy built in.
 
 ## [Heroku App](https://Notyetdeployed.herokuapp.com)
 
